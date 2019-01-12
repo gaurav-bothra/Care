@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node app",
     "dev": "nodemon"
-  },
-  "author": "Gaurav Bothra",
+  }
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
